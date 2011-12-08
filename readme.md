@@ -4,6 +4,8 @@ It has png fix applied and has qTip for pretty tooltips, just cause this is an u
 
 Tested to work in IE 6, 7, 8. It displays perfectly in the other browsers too, if you need to show the message for some other browser versions
 
+See a demo here [http://ianand2.github.com/browseup/browseup.html](http://ianand2.github.com/browseup/browseup.html)
+
 Credits
 -------
 
